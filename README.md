@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://beacons.page/bruno_oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunolivier&show_icons=true&theme=drark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunolivier&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunolivier&show_icons=true&theme=drark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunolivier&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
