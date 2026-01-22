@@ -1,4 +1,4 @@
-# 👋 Hello world, eu sou o Bruno Leandro
+# 👋 Hello world! Eu sou o Bruno Leandro.
 
 Sou **Engenheiro de Software** com experiência no desenvolvimento de **soluções corporativas**, atuando principalmente com a plataforma **OutSystems** e **bancos de dados relacionais**.
 
